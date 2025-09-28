@@ -17,3 +17,4 @@ This project is a Python-based Twitter bot that automates posting tweets based o
 
 ## Installation
 1. Clone the repository:
+2. Change the Access keys and secrets after getting it from the google cloud dashboard
