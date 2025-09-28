@@ -14,10 +14,10 @@ def convert(date_time):
 
 def processing():
   
-  ACCESS_KEY = '1485209990721908736-PPj1QijddKVBsEBfggqBIwBcO37skp'
-  ACCESS_SECRET = 'lBD4mjKVZ10dgqGC7jtDBYhbSoPtNxioVCPRntqiGXcSK'
-  CONSUMER_KEY = 'bGXl7IRLNw7hXCK15sTPscKmo'
-  CONSUMER_SECRET = '6AbCrIvmurnNklc1XqvT8ZirlVFsgGs42hm23B1rWQsu3TqM10'
+  ACCESS_KEY = 'xxxxxxxxxx'
+  ACCESS_SECRET = 'xxxxxxxxxx'
+  CONSUMER_KEY = 'xxxxxxxxxx'
+  CONSUMER_SECRET = 'xxxxxxxxxx'
   
   scope = ["https://spreadsheets.google.com/feeds", 'https://www.googleapis.com/auth/spreadsheets',
            "https://www.googleapis.com/auth/drive.file", "https://www.googleapis.com/auth/drive"]
